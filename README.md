@@ -3,7 +3,8 @@
 
 ### Week 5
 
-#### Build Tools for Sublimetext
+#### Running Code with Sublimetext
+The following information will help us setup a simple way to run and test our code in Sublime Text.
 
 - Add new build systems via `Tools > Build System > New Build System`. 
 - Save files as Language.sublime-build
