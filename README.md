@@ -6,4 +6,4 @@ Lynda.com - [Foundations of Programming Fundamentals](http://www.lynda.com/JavaS
 
 
 ##### Aside
-- Start Simple Server - php -S localhost:8000
+- **Start Simple Server** - php -S localhost:8000
