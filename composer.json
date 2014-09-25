@@ -1,0 +1,11 @@
+{
+    "name": "corbanb/bdw-code",
+    "description": "Code Course for BDW Cohort 7",
+    "authors": [
+        {
+            "name": "corban baxter",
+            "email": "corbanb@gmail.com"
+        }
+    ],
+    "require": {}
+}
