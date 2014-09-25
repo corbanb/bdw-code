@@ -20,7 +20,7 @@ The following information will help us setup a simple way to run and test our co
 Here you can see where to **create new builds** and to setup **automatic build types**.
 ![Sublime Build Menu](http://cl.ly/image/1c403E1f3u2N/Screen%20Shot%202014-09-24%20at%2010.09.30%20AM.png)
 
-
+JavaScript.sublime-build
 ```javascript
 // Sublime Text - Build System for Javascript
 {
@@ -28,12 +28,12 @@ Here you can see where to **create new builds** and to setup **automatic build t
 	"selector": "source.js"
 }
 ```
-
+PHP.sublime-build
 ```javascript
-// Sublime Text - Build System for Javascript
+// Sublime Text - Build System for PHP
 {
-	"cmd": ["node", "$file"],
-	"selector": "source.js"
+	"cmd": ["php", "$file"],
+	"selector": "source.php"
 }
 ```
 
