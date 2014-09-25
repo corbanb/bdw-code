@@ -1,0 +1,287 @@
+{
+  "id": "720095463", 
+  "bio": "\"You can't build a reputation on what you are going to do.\" - Henry Ford", 
+  "birthday": "09/08/1981", 
+  "education": [
+    {
+      "school": {
+        "id": "110175722345545", 
+        "name": "Shawnee Heights Senior High"
+      }, 
+      "type": "High School"
+    }, 
+    {
+      "school": {
+        "id": "113479741995604", 
+        "name": "Edward S. Marcus High School"
+      }, 
+      "type": "High School", 
+      "year": {
+        "id": "143018465715205", 
+        "name": "2000"
+      }
+    }, 
+    {
+      "concentration": [
+        {
+          "id": "108033872562325", 
+          "name": "Applied Sciences"
+        }
+      ], 
+      "school": {
+        "id": "388505991203750", 
+        "name": "Art Insitute of Dallas"
+      }, 
+      "type": "College", 
+      "year": {
+        "id": "194603703904595", 
+        "name": "2003"
+      }
+    }
+  ], 
+  "email": "corbanb@gmail.com", 
+  "favorite_athletes": [
+    {
+      "id": "62975399193", 
+      "name": "Michael Jordan"
+    }, 
+    {
+      "id": "75427401189", 
+      "name": "Rob Dyrdek"
+    }, 
+    {
+      "id": "39734800649", 
+      "name": "Georges St-Pierre"
+    }, 
+    {
+      "id": "119017024793036", 
+      "name": "Dirk Nowitzki"
+    }, 
+    {
+      "id": "51926382304", 
+      "name": "Derrick Rose"
+    }
+  ], 
+  "favorite_teams": [
+    {
+      "id": "30530605658", 
+      "name": "Chicago Cubs"
+    }, 
+    {
+      "id": "112521538763380", 
+      "name": "Kansas Jayhawks men's basketball"
+    }, 
+    {
+      "id": "99559607813", 
+      "name": "Dallas Cowboys"
+    }, 
+    {
+      "id": "92931665383", 
+      "name": "Texas Rangers"
+    }
+  ], 
+  "first_name": "Corban", 
+  "gender": "male", 
+  "hometown": {
+    "id": "112136275468553", 
+    "name": "Topeka, Kansas"
+  }, 
+  "inspirational_people": [
+    {
+      "id": "107425379281012", 
+      "name": "Jonathan Ive"
+    }, 
+    {
+      "id": "113529011990795", 
+      "name": "Steve Jobs"
+    }, 
+    {
+      "id": "109409872410929", 
+      "name": "Intel Corporation"
+    }, 
+    {
+      "id": "225513337512515", 
+      "name": "CP+B"
+    }, 
+    {
+      "id": "112407875438006", 
+      "name": "IDEO"
+    }
+  ], 
+  "interested_in": [
+    "female"
+  ], 
+  "languages": [
+    {
+      "id": "113301478683221", 
+      "name": "American English"
+    }
+  ], 
+  "last_name": "Baxter", 
+  "link": "http://www.facebook.com/720095463", 
+  "location": {
+    "id": "106083096088679", 
+    "name": "Boulder, Colorado"
+  }, 
+  "locale": "en_US", 
+  "name": "Corban Baxter", 
+  "political": "It's all BS", 
+  "relationship_status": "Single", 
+  "religion": "Jedi", 
+  "sports": [
+    {
+      "id": "104096342959307", 
+      "name": "Indoor soccer"
+    }, 
+    {
+      "id": "105942022769573", 
+      "name": "Golf", 
+      "with": [
+        {
+          "id": "10203960191872513", 
+          "name": "Don Harris"
+        }, 
+        {
+          "id": "10203881603416041", 
+          "name": "Cody Adams"
+        }, 
+        {
+          "id": "10152499515442845", 
+          "name": "Robby Rigano"
+        }
+      ]
+    }
+  ], 
+  "quotes": "\"You can't build a reputation on what you are going to do.\"   - Henry Ford\n\n\"You must be the change you wish to see in the world. - Gandhi\n\n\"There are painters who transform the sun to a yellow spot, but there are others who with the help of their art and their intelligence, transform a yellow spot into the sun.\" - Pablo Picasso\n\n\n\"The day your troops stop coming to you with their problems is the day you have stopped leading them.  They have either concluded that you cannot help them or that you don't care.  Either case is a failure of your leadership.\" - General Powell", 
+  "timezone": -6, 
+  "updated_time": "2014-08-10T18:27:20+0000", 
+  "verified": true, 
+  "website": "http://www.projectx4.com", 
+  "work": [
+    {
+      "employer": {
+        "id": "496969940379451", 
+        "name": "Made Movement"
+      }, 
+      "location": {
+        "id": "106083096088679", 
+        "name": "Boulder, Colorado"
+      }, 
+      "position": {
+        "id": "158953250790005", 
+        "name": "Creative Technology Director"
+      }, 
+      "start_date": "2013-05-01"
+    }, 
+    {
+      "end_date": "2013-04-01", 
+      "employer": {
+        "id": "162897193734620", 
+        "name": "Silver Chalice New Media"
+      }, 
+      "position": {
+        "id": "158953250790005", 
+        "name": "Creative Technology Director"
+      }, 
+      "start_date": "2012-05-01"
+    }, 
+    {
+      "end_date": "2012-05-04", 
+      "employer": {
+        "id": "225513337512515", 
+        "name": "CP+B"
+      }, 
+      "location": {
+        "id": "106083096088679", 
+        "name": "Boulder, Colorado"
+      }, 
+      "position": {
+        "id": "115318738482963", 
+        "name": "Technical Lead"
+      }, 
+      "start_date": "2011-05-01"
+    }, 
+    {
+      "end_date": "2011-05-01", 
+      "employer": {
+        "id": "294387270503", 
+        "name": "mcgarrybowen"
+      }, 
+      "location": {
+        "id": "108424279189115", 
+        "name": "New York, New York"
+      }, 
+      "position": {
+        "id": "136621626371316", 
+        "name": "Associate Director of Technology"
+      }, 
+      "start_date": "2009-05-01", 
+      "with": [
+        {
+          "id": "10153398257341002", 
+          "name": "Nari Eunice Kim"
+        }, 
+        {
+          "id": "10152686906853570", 
+          "name": "Sarah Milos"
+        }, 
+        {
+          "id": "10152192547682795", 
+          "name": "Andrew Deutsch"
+        }, 
+        {
+          "id": "10100585675049489", 
+          "name": "Autumn Hopkins"
+        }, 
+        {
+          "id": "10151998612371954", 
+          "name": "Tiago Veiga"
+        }, 
+        {
+          "id": "739445054170", 
+          "name": "Josh Markowitz"
+        }, 
+        {
+          "id": "10105067254448340", 
+          "name": "Danny Davidson"
+        }, 
+        {
+          "id": "10201090985836166", 
+          "name": "John Ghioca"
+        }, 
+        {
+          "id": "10203207937294916", 
+          "name": "Frankie Pugliese"
+        }, 
+        {
+          "id": "762938561", 
+          "name": "Bryan Roman"
+        }
+      ]
+    }, 
+    {
+      "end_date": "2007-08-01", 
+      "employer": {
+        "id": "152865061391960", 
+        "name": "Tribal DDB"
+      }, 
+      "position": {
+        "id": "140432482657045", 
+        "name": "Multimedia Developer"
+      }, 
+      "start_date": "2006-02-01"
+    }, 
+    {
+      "end_date": "2006-02-01", 
+      "employer": {
+        "id": "63889783480", 
+        "name": "FUNimation"
+      }, 
+      "position": {
+        "id": "129057557138956", 
+        "name": "Interactive Developer"
+      }, 
+      "start_date": "2003-03-01"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+"id": 11504,
+  "id_str": "11504",
+  "name": "corban baxter",
+  "screen_name": "corbanb",
+  "location": "Boulder/NYC/Dallas",
+  "description": "Creative Technology Director @madesays by day, instructor @bdwcu by night and mentor for @BoomtownBoulder. These are my words.",
+  "url": "https://t.co/pWQokicLcv",
+  "entities":  {
+    "url":  {
+      "urls":  [
+         {
+          "url": "https://t.co/pWQokicLcv",
+          "expanded_url": "https://www.linkedin.com/profile/view?id=4006847",
+          "display_url": "linkedin.com/profile/view?i…",
+          "indices":  [
+            0,
+            23
+          ]
+        }
+      ]
+    },
+    "description":  {
+      "urls":  []
+    }
+  },
+  "protected": false,
+  "followers_count": 857,
+  "friends_count": 681,
+  "listed_count": 51,
+  "created_at": "Sat Nov 04 23:05:24 +0000 2006",
+  "favourites_count": 1506,
+  "utc_offset": -14400,
+  "time_zone": "Eastern Time (US & Canada)",
+  "geo_enabled": false,
+  "verified": false,
+  "statuses_count": 7663,
+  "lang": "en",
+  "status":  {
+    "created_at": "Thu Sep 25 01:26:32 +0000 2014",
+    "id": 514949035434590200,
+    "id_str": "514949035434590208",
+    "text": "RT @patio11: PSA: If you didn't upgrade bash today, substantially any box which speaks HTTP can be remote rooted. (Make sure you get every …",
+    "source": "<a href="https://about.twitter.com/products/tweetdeck" rel="nofollow">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status":  {
+      "created_at": "Thu Sep 25 00:57:42 +0000 2014",
+      "id": 514941782841229300,
+      "id_str": "514941782841229312",
+      "text": "PSA: If you didn't upgrade bash today, substantially any box which speaks HTTP can be remote rooted. (Make sure you get every machine.)",
+      "source": "<a href="http://twitter.com" rel="nofollow">Twitter Web Client</a>",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 76,
+      "favorite_count": 22,
+      "entities":  {
+        "hashtags":  [],
+        "symbols":  [],
+        "urls":  [],
+        "user_mentions":  []
+      },
+      "favorited": false,
+      "retweeted": true,
+      "lang": "en"
+    },
+    "retweet_count": 76,
+    "favorite_count": 0,
+    "entities":  {
+      "hashtags":  [],
+      "symbols":  [],
+      "urls":  [],
+      "user_mentions":  [
+         {
+          "screen_name": "patio11",
+          "name": "Patrick McKenzie",
+          "id": 20844341,
+          "id_str": "20844341",
+          "indices":  [
+            3,
+            11
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": true,
+    "lang": "en"
+  },
+  "contributors_enabled": false,
+  "is_translator": false,
+  "is_translation_enabled": false,
+  "profile_background_color": "FFFFFF",
+  "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000179130275/SiEdFupY.png",
+  "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000179130275/SiEdFupY.png",
+  "profile_background_tile": true,
+  "profile_image_url": "http://pbs.twimg.com/profile_images/378800000241145295/79fa1b8c1b0e0ea317b07413e2c0353d_normal.jpeg",
+  "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000241145295/79fa1b8c1b0e0ea317b07413e2c0353d_normal.jpeg",
+  "profile_banner_url": "https://pbs.twimg.com/profile_banners/11504/1398268876",
+  "profile_link_color": "FF0000",
+  "profile_sidebar_border_color": "FFFFFF",
+  "profile_sidebar_fill_color": "E6F6F9",
+  "profile_text_color": "333333",
+  "profile_use_background_image": true,
+  "default_profile": false,
+  "default_profile_image": false,
+  "following": false,
+  "follow_request_sent": false,
+  "notifications": false,
+  "suspended": false,
+  "needs_phone_verification": false
+}
