@@ -1,5 +1,7 @@
 ### Week 5
 
+This is your first week of practical coding. This week we will learn about variable types and other useful code techniques to give us the foundation of programming. 
+
 #### Running Code with Sublimetext
 The following information will help us setup a simple way to run and test our code in Sublime Text.
 
