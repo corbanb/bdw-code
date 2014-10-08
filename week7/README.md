@@ -60,7 +60,6 @@ place.longitude = -105.544102807;
 
 #### Functions 
 ```javascript
-// Intro to functions
 function add(num1, num2) {
 	return num1 + num2;
 }
@@ -124,8 +123,8 @@ $('.my-image').fadeOut();
 
 #### AJAX ([Docs](http://api.jquery.com/jquery.ajax/))
 
+
 ```javascript
-// Load data from JSON file
 $.ajax({
 	url: 'http://facebook.com/data/me.json',
 	type: 'GET',
@@ -147,7 +146,6 @@ $.ajax({
 
 #### JSON
 ```javascript
-// Intro to JSON
 {
 	'city': 'Estes Park',
 	'country': 'United States',
