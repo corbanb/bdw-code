@@ -126,7 +126,7 @@ $('.my-image').fadeOut();
 
 ```javascript
 $.ajax({
-	url: 'http://facebook.com/data/me.json',
+	url: 'http://www.myapifilms.com/imdb?title=Airplane!',
 	type: 'GET',
 	dataType: 'json'
 })
