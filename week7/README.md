@@ -130,10 +130,10 @@ $.ajax({
 	type: 'GET',
 	dataType: 'json'
 })
-.done(function() {
+.done(function(data) {
 	alert( "success" );
 })
-.fail(function() {
+.fail(function(jqXHR, textStatus, error) {
 	alert( "error" );
 })
 .always(function() {
