@@ -20,8 +20,8 @@ var y = 6.789;
 var total = x + y; // 11.789
 
 // Rounding Numbers
-console.log( Math.round(20.49) ); // 20
-console.log( Math.round(20.50) ); // 21
+Math.round(20.49); // 20
+Math.round(20.50); // 21
 
 // Booleans
 var isThursday = true;
@@ -49,9 +49,9 @@ var place = {
 	'state': 'CO'
 };
 
+//easily add new properties to the object
 place.latitude = 40.3835302033;
 place.longitude = -105.544102807;
-console.log(place);
 
 ```
 
