@@ -3,7 +3,7 @@
 ## Recap
 This week we are going to take a step back and recap what we have learned over the past two weeks. And work on writing on our code from the groud up.
 
-## Primitive Data Types
+## Simple Data Types
 
 #### Strings
 ```javascript
