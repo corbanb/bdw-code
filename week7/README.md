@@ -40,9 +40,10 @@ var cards = ['King', 'Queen', 'Jack', '10', '9', '8', '7', '6', '5', '4', '3'];
 
 cards.unshift('Ace'); // adds ace to the front
 cards.push('2'); // adds the 2 to the end
+```
 
-// Intro to Objects
-
+#### Objects
+```javascript
 var place = {
 	'city': 'Estes Park',
 	'country': 'United States',
