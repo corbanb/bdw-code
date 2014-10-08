@@ -143,7 +143,9 @@ $.ajax({
 
 ```
 
-### JSON
+## The JSON Data type
+
+#### JSON
 ```javascript
 // Intro to JSON
 {
