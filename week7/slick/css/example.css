@@ -1,0 +1,29 @@
+html, body {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: #323232;
+	font-family: 'Roboto Slab', serif;
+	font-size: 16px;
+	color: #eee;
+	line-height: 1;
+	
+}
+
+#content {
+	margin-top: 2em;
+	width: 100%;
+}
+
+#wrapper {
+	margin: 0 auto;
+	width: 710px;
+}
+
+
+.my-mark {
+	width: 710px;
+	height: 284px;
+}
