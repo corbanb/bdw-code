@@ -8,28 +8,20 @@ function init(){
 
 	stroll.bind( $scroller );
 
-	$('.stroll-cards-btn').click(function(e){
-		$scroller.removeClass();
-		$scroller.addClass('stroll cards');
-		clearActive();
-		$(this).parent().addClass('active');
-	});
-
-	$('.stroll-curl-btn').click(function(){
-		$scroller.removeClass();
-		$scroller.addClass('stroll curl');
-		clearActive();
-		$(this).parent().addClass('active');
-	});
-
-	$('.stroll-twirl-btn').click(function(){
-		$scroller.removeClass();
-		$scroller.addClass('stroll twirl');
-		clearActive();
-		$(this).parent().addClass('active');
-	});
+	$('.stroll-cards-btn').click(callback);
+	$('.stroll-curl-btn').click(callback);
+	$('.stroll-twirl-btn').click(callback);
 }
 
+function callback(event){
+
+	// find a solution to changing classes on the $scroller to match the button
+
+	$scroller.removeClass();
+	$scroller.addClass('stroll cards');
+	clearActive();
+	$(this).parent().addClass('active');
+}
 
 function clearActive(){
 	$('.nav li').removeClass();
@@ -42,6 +34,8 @@ function getMyImages(){
 	// in the loop build li's and img tags
 	// put images into into $scroller
 	// init stroll and click handlers by calling init method
+
+	init();
 }
 
 getMyImages();

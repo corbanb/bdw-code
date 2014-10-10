@@ -75,3 +75,7 @@ ul.nav li {
 	padding: 10px;
 }
 
+ul.nav li.active {
+	background-color: #669933;
+}
+
